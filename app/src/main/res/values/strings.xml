@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_settings">Настройки</string>
+
+    <string name="settings_progress_dialog_title">Загрузка...</string>
+    <string name="settings_progress_dialog_message">Выполняется запрос к серверу, пожалуйста подождите.</string>
+    <string name="settings_spinner_type_title">Статус</string>
+    <string name="form_start_message">Настройте отображение в настройках</string>
+    <string name="button_show_title">Показать</string>
+    <string name="settings_spinner_faculty_title">Факультет</string>
+    <string name="settings_spinner_department_title">Специальность</string>
+    <string name="settings_spinner_course_title">Курс</string>
+    <string name="settings_spinner_group_title">Группа</string>
+    <string name="on_group_list_empty">Нет данных</string>
+    <string name="toast_server_not_responding">Сервер не отвечает</string>
+    <string name="toast_group_empty">Укажите группу</string>
+    <string name="toast_value_empty">Заполните пустые поля</string>
+    <string name="toast_not_implemented">Не реализовано</string>
+    <string name="toast_invalid_schedule">Неверный формат</string>
+
+    <string-array name="spinner_type_array">
+        <item>Студент</item>
+        <item>Преподаватель</item>
+    </string-array>
+
+    <string name="api_faculties">http://api.grsu.by/1.x/app1/getFaculties</string>
+    <string name="api_departments">http://api.grsu.by/1.x/app1/getDepartments</string>
+    <string name="api_groups">http://api.grsu.by/1.x/app1/getGroups</string>
+    <string name="api_schedule">http://api.grsu.by/1.x/app1/getGroupSchedule</string>
+
+</resources>

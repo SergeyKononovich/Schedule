@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#9d2e3ae4</color>
+    <color name="colorTime">#b39595</color>
+    <color name="colorRoom">#cccbb6</color>
+    <color name="colorTitle">#ced4cf</color>
+    <color name="colorName">#abc5c6c6</color>
+    <color name="colorButtonShow">#9d2e3ae4</color>
+    <color name="colorButtonShowText">#9df2f2f2</color>
+    <color name="settingsSpinnerText">#92464646</color>
+    <color name="scheduleColor1">#4a60cd</color>
+    <color name="scheduleColor2">#3855d2</color>
+</resources>
